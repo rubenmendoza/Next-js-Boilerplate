@@ -19,3 +19,6 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+.textile_bg{
+  background: url("../assets/textile.png");
+}

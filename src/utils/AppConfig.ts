@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
+  site_name: "Mendoza's Challenge",
+  title: 'Design - Coding Challenge',
   description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
   locale: 'en',
 };
